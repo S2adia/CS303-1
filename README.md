@@ -1,5 +1,5 @@
 # CS303-1
-First keep all the files in the same directory including the given input file.
+First keep all the files in the same directory including the given input file "i.txt".
 I have used total 5 functions. The function declarations are in the f.h and function definitions are in the f.cpp
 Run the main.cpp file otherwise it would show an error.
 The functions require user input.
